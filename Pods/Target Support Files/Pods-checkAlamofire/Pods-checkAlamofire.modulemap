@@ -1,0 +1,6 @@
+framework module Pods_checkAlamofire {
+  umbrella header "Pods-checkAlamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
